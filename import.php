@@ -14,7 +14,7 @@ endif;
 $woocommerce = new Client(
     'https://www.yourwebsiteurl.com',
     'ck_5123315599341b68523df54ffb981ba22eeceb96', 
-    'cs_029e026ff8213972039208093aeea6e07cc20a57',
+    'cs_029e026ff8213972039208093aeea6e07cc20a571',
     [
         'wp_api' => true,
         'version' => 'wc/v2',
